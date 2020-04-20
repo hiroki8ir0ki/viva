@@ -1,0 +1,78 @@
+.e  {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+}
+.oi {
+    text-align: center;
+    padding-left: 300px;
+    
+}
+.yu {
+    text-align: center;
+    padding-left: 100px;
+    color:#2da8c9;
+}
+.ringo {
+    /* width:30px;
+    height:30px;  */
+}
+.btnbtn
+{
+   padding-left: 400px;
+}
+.green
+{
+    padding: 0px 100px;
+}
+.submit {
+    text-align: center; 
+}
+body{
+    background:#ffff;
+   }
+  .content{
+    width: 450px;
+    height: auto;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  .nav-pills{
+    width: 450px;
+  }
+  .nav-item{
+    width: 50%;
+  }
+  .nav-pills .nav-link{
+    font-weight: bold;
+    padding-top: 13px;
+    text-align: center;
+    background: #343436;
+    color: #ffff;
+    border-radius: 30px;
+    height: 100px;
+  }
+  .nav-pills .nav-link.active{
+    background:#ffff;
+    color: #000;
+  }
+  .tab-content{
+    position: absolute;
+    width: 450px;
+    height: auto;
+    margin-top: -50px;
+    background: #ffff;
+    color: #000;
+    border-radius: 30px;
+    z-index: 1000;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    margin-bottom: 50px;
+  }
+  .tab-content button{
+    border-radius: 15px;
+    width: 100px;
+    margin: 0 auto;
+    float: right;
+  }

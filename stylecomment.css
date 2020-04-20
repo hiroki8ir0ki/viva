@@ -1,0 +1,31 @@
+.oi {
+    text-align: center;
+    padding-left: 300px;
+}
+.ii {
+    text-align: center;
+    padding-left: 100px;
+    color: #2da8c9; 
+}
+.ie { 
+        text-align: center;
+        background-color: grey; 
+        width: 100%;  
+}
+.h2 { 
+    color: blue;
+}
+.btnbtn
+{
+   padding-left: 400px;
+}
+.green
+{
+    padding: 0px 100px;
+}
+.submit {
+    text-align: center; 
+}
+.text-form {
+    background-color: grey; 
+}
